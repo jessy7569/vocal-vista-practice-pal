@@ -1,4 +1,3 @@
-
 # Vocal Vista: AI-Powered Speech Tutor for Students
 
 ## Overview
@@ -31,7 +30,6 @@ Vocal Vista is an innovative web application designed to help students improve t
 ## 📦 Prerequisites
 
 - Node.js (v18+)
-- npm or bun
 
 ## 🏁 Getting Started
 
@@ -86,4 +84,4 @@ For questions or support, please open an issue in the GitHub repository.
 
 ---
 
-**Developed with ❤️ by Jesmitha**
+**Developed with Jesmitha**
