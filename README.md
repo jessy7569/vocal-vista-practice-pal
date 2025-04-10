@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
 
-## Project info
+# Vocal Vista: AI-Powered Speech Tutor for Students
 
-**URL**: https://lovable.dev/projects/9f05fd1c-029d-4a59-ae68-f6ac01c221b4
+## Overview
 
-## How can I edit this code?
+Vocal Vista is an innovative web application designed to help students improve their English speaking skills through interactive, AI-assisted practice sessions. The platform provides personalized feedback on pronunciation, intonation, and speaking confidence.
 
-There are several ways of editing your application.
+## 🚀 Key Features
 
-**Use Lovable**
+- **Interactive Practice Sessions**: Choose from a variety of phrases across different difficulty levels
+- **Real-time Speech Recording**: Record, playback, and analyze your pronunciation
+- **Comprehensive Feedback**: Receive detailed metrics on pronunciation, intonation, rhythm, and grammar
+- **Progress Tracking**: Monitor your speech improvement with detailed dashboard statistics
+- **Learning Resources**: Access guides, videos, exercises, and listening materials to enhance your skills
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9f05fd1c-029d-4a59-ae68-f6ac01c221b4) and start prompting.
+## 🛠 Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend**: 
+  - React.js
+  - TypeScript
+  - Tailwind CSS
+  - Shadcn UI
+  - React Router
+  - Tanstack React Query
 
-**Use your preferred IDE**
+- **Development Tools**:
+  - Vite
+  - ESLint
+  - Prettier
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📦 Prerequisites
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Node.js (v18+)
+- npm or bun
 
-Follow these steps:
+## 🏁 Getting Started
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/vocal-vista.git
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Navigate to the project directory
+cd vocal-vista
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🌟 Project Structure
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- `src/components/`: Reusable UI components
+- `src/pages/`: Main application pages
+- `src/utils/`: Utility functions and helpers
+- `src/hooks/`: Custom React hooks
 
-**Use GitHub Codespaces**
+## 🔍 How It Works
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Select a practice phrase from different difficulty levels
+2. Record your speech using the integrated microphone
+3. Get instant AI-powered feedback on your pronunciation
+4. Track your progress and improve over time
 
-## What technologies are used for this project?
+## 🔮 Future Roadmap
 
-This project is built with:
+- [ ] Integrate Azure Cognitive Services for advanced speech analysis
+- [ ] Add more diverse practice phrases and categories
+- [ ] Implement user authentication
+- [ ] Create personalized learning paths
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🤝 Contributing
 
-## How can I deploy this project?
+Contributions are welcome! Please read our contributing guidelines before getting started.
 
-Simply open [Lovable](https://lovable.dev/projects/9f05fd1c-029d-4a59-ae68-f6ac01c221b4) and click on Share -> Publish.
+## 📄 License
 
-## Can I connect a custom domain to my Lovable project?
+This project is open-source and available under the MIT License.
 
-Yes it is!
+## 💬 Support
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+For questions or support, please open an issue in the GitHub repository.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+**Developed with ❤️ by [Your Name]**
