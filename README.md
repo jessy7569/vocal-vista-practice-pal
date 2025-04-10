@@ -81,7 +81,4 @@ This project is open-source and available under the MIT License.
 ## 💬 Support
 
 For questions or support, please open an issue in the GitHub repository.
-
 ---
-
-**Developed with Jesmitha**
