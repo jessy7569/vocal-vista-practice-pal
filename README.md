@@ -39,7 +39,7 @@ Vocal Vista is an innovative web application designed to help students improve t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vocal-vista.git
+git clone https://github.com/jesmitha/vocal-vista.git
 
 # Navigate to the project directory
 cd vocal-vista
@@ -86,4 +86,4 @@ For questions or support, please open an issue in the GitHub repository.
 
 ---
 
-**Developed with ❤️ by [Your Name]**
+**Developed with ❤️ by Jesmitha**
