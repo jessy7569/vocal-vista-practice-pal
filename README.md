@@ -74,11 +74,4 @@ npm run dev
 
 Contributions are welcome! Please read our contributing guidelines before getting started.
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
-## 💬 Support
-
-For questions or support, please open an issue in the GitHub repository.
----
+This project is open-source.
